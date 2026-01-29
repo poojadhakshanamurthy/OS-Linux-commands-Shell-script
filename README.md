@@ -943,6 +943,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/b31fae22-168c-42c9-94e8-88b6a7069413" />
 
 cat forctype1.sh 
 ```bash
@@ -956,6 +957,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/9b9ff07f-32aa-4bd9-ad76-55e8dd0a9380" />
 
 cat fornested1.sh 
 ```bash
@@ -974,6 +976,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/09f435a9-3cf6-4ab2-af79-3195310f81d3" />
 
  
 cat forbreak.sh 
@@ -991,6 +994,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="940" height="192" alt="image" src="https://github.com/user-attachments/assets/c22e6151-4d41-46a5-aa96-ac354da93f07" />
 
 $ chmod 755 forbreak.sh
  
@@ -1030,6 +1034,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="940" height="118" alt="image" src="https://github.com/user-attachments/assets/f3ca8ec2-b987-4509-84f3-ffc7eafda07d" />
 
 
  cat exread1.sh
@@ -1064,6 +1069,7 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
+<img width="966" height="214" alt="image" src="https://github.com/user-attachments/assets/3802d4f1-f1be-42a2-b203-db2aac946c7c" />
 
  
  ./funcex.sh 1 2
@@ -1098,7 +1104,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="940" height="48" alt="image" src="https://github.com/user-attachments/assets/5878717a-d76d-48a6-85a5-d2a2c36c8c2a" />
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1112,6 +1119,8 @@ set +x
 ## OUTPUT
  ./argshift.sh 1 2 3
  
+<img width="940" height="148" alt="image" src="https://github.com/user-attachments/assets/adce6900-83b6-4456-beeb-73ac4583fbb3" />
+
  
 cat > nc.awk
 ```bash
@@ -1142,7 +1151,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="940" height="148" alt="image" src="https://github.com/user-attachments/assets/ec06343e-5cd8-4b25-8284-362d87972c6f" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1169,6 +1179,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="940" height="343" alt="image" src="https://github.com/user-attachments/assets/ec2d6b4b-a46f-4857-b714-d07f60686fc0" />
 
 
 # RESULT:
